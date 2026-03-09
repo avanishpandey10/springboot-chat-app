@@ -86,8 +86,7 @@ http://localhost:8080/chat
 
 ## 📸 Application Screenshot
 
-![Chat Application](screenshots/chat-ui.png)
-
+![WhatsApp Image 2026-03-08 at 5 49 55 PM](https://github.com/user-attachments/assets/3032490a-c2bf-4b5e-9227-f46b7e6287fd)
 
 ---
 
